@@ -1,15 +1,19 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
 
-> Description the project.
+# WeRateDogs Data Wrangling
+
+>This is a data wrangling project of WeRateDogs twitter user. WeRateDogs is a twitter account that use humorous saying to rate people's dogs. They have an interesting way of rating dogs because all of their ratings are avove 10. I will be performing data wrangling on the twgitter user.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Python
+- Pandas
+- tweepy
+- json
+- Matplotlib
+- Numpy
+- Seaborn
 
 ## Live Demo (if available)
 
@@ -17,46 +21,27 @@
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Go to the repository page.
+git clone the repository using git command git clone <link>.
+cd into the folder
+git checkout branchName (mobile-version) using git command git checkout <branchName>.
+Open
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Sakiru Olarewaju Olagunju**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@gunjuzone](https://github.com/gunjuzone)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olarewaju-olagunju-775034161/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,9 +49,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-Udacity
+
 
 ## 📝 License
 
